@@ -20,7 +20,6 @@ En este desafío se trabaja con la **base de datos de 4 tiendas** de la Alura St
 
 ## 📂 Contenido del repositorio
 - `notebook.ipynb` → análisis principal con Pandas y Matplotlib.
-- `data/` → contiene la base de datos de las 4 tiendas.
 - `README.md` → este archivo.
 
 ## ✅ Resultado esperado
